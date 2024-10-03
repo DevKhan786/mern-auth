@@ -28,3 +28,7 @@ dist/
 
 # Windows specific files
 Thumbs.db
+
+node_modules
+.env
+
